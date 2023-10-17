@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "nome": "Patrick"
+    },
+    {
+        "id": 2,
+        "nome": "Pedro"
+    },
+    {
+        "id": 3,
+        "nome": "juliano"
+    },
+    {
+        "id": 4,
+        "nome": "Richard"
+    },
+    {
+        "id": 5,
+        "nome": "Bernado"
+    },
+    {
+        "id": 6,
+        "nome": "Fabricio",
+        "email": "Fabricioromeu@gmail",
+        "senha": "Genérica"
+    }
+]
